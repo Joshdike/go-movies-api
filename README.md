@@ -1,1 +1,1 @@
-# go-movies-crud
+# go-movies-api
